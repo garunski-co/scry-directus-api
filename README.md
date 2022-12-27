@@ -1,0 +1,1 @@
+# scry-directus-api
